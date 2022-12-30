@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ittaibxo
+- 👋 Hi, I’m Taibou Diallo
 - 👀 I’m interested in cloud computing
 - 🌱 I’m currently learning AWS SAA
 
