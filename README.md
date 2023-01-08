@@ -6,4 +6,4 @@
 
 
 ### Connect with me:
-[<img align="left" alt="Taibou Diallo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="[Taibou Diallo | LinkedIn](https://www.linkedin.com/in/taibou-diallo/)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][linkedin]
