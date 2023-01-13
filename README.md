@@ -2,5 +2,5 @@
 
 ### I'm a Cloud and DevOps Engineer!
 - 💻 I'm currently working on a few AWS projects.
-- 🏆 Recently AWS SAA certified!
+- 🏆 AWS Solutions Architect Associate certified!
 
